@@ -41,7 +41,7 @@ def main():
         pgconn = psycopg2.connect(
             host= 'localhost',
             database = 'test',
-            user = 'win',
+            user = 'mac',
             password = ''
         )
         
