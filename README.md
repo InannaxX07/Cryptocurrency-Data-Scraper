@@ -9,3 +9,9 @@ Uses:
 Code written in python
 
 Webpage used: https://coinmarketcap.com/
+
+PostgreSQL :
+
+![Screenshot (113)](https://github.com/InannaxX07/Cryptocurrency-Data-Scraper/assets/95119297/cadc972e-4e96-4e5f-8c7c-66f4e895894c)
+
+
